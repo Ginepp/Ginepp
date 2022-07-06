@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center"> ¡Hola mundo! 🌍 </h1>
 
 ## 🚀 Sobre mi 
